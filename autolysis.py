@@ -10,7 +10,7 @@ Original file is located at
 import os
 os.environ["AIPROXY_TOKEN"] = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjEwMDA0OTNAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.Z0KFTJRzgFjt7Y-T8qAqUNKT2-RXnvVb-e6Nz4xsNGk" # replace with your token
 
-pip install seaborn
+
 
 import sys
 import pandas as pd
